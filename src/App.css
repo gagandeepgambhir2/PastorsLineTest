@@ -1,0 +1,18 @@
+#root {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+.btn-a {
+  background-color: #46139f !important;
+  border-color: #46139f !important;
+}
+.btn-b {
+  background-color: #ff7f50 !important;
+  border-color: #ff7f50 !important;
+}
+.content {
+  height: 70vh;
+  overflow: auto;
+}
